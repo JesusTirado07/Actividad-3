@@ -1,0 +1,33 @@
+
+nav{
+    margin-top: 15px;
+    width: 900px;
+    height: 100;
+    background-color: rgb(13, 202, 51);  
+    border:solid 4px rgb(0, 0, 0);
+    align-items: center;
+}
+.ejemplo{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.contenedor{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-right: 10PX;
+    margin-left:  10px ;
+    padding: 20px;
+    padding-right: 50px;
+    padding-left: 50PX;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255); 
+    border:solid 2px rgb(0, 166, 255);
+}
+#ejemplo4{
+    width: 900px;
+    height: 50px;
+    text-align: center;
+    background-color: gold;
+    border:solid 4px rgb(0, 0, 0);
+}
